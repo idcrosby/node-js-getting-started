@@ -23,4 +23,3 @@ jobs:
           output: comment, report-markdown
           coverage-file: ./report.json
           base-coverage-file: ./report.json
-          threshold: 0
